@@ -4,3 +4,5 @@ Practice for the customer complaints classification using Jieba Chinese word spl
 Trying SVM Classifier, Bayesian Classifier and Random Forest
 
 Using google colab back-end
+
+75% accuracy achieved
